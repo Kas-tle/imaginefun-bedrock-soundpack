@@ -6,9 +6,9 @@
     "platform_locked": false,
     "uuid": "8794c1aa-2263-11eb-adc1-0242ac120002",
     "version": [
+      1,
       0,
-      0,
-      1
+      2
     ]
   },
   "modules": [
@@ -19,7 +19,7 @@
       "version": [
         1,
         0,
-        0
+        2
       ]
     }
   ]
