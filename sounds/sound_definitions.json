@@ -9,6 +9,10 @@
       "category": "music",
       "sounds": ["sounds/audio/adventureland/indiannajones/indy_full_youth"]
     },
+    "adventureland.indiannajones.indy_queuetemple": {
+      "category": "music",
+      "sounds": ["sounds/audio/adventureland/indiannajones/indy_queuetemple"]
+    },
     "adventureland.indiannajones.indy_full_future": {
       "category": "music",
       "sounds": ["sounds/audio/adventureland/indiannajones/indy_full_future"]
@@ -141,6 +145,10 @@
       "category": "music",
       "sounds": ["sounds/audio/fantasyland/kingaurthurscarousel/fullloop"]
     },
+    "crittercountry.splashmountain.01_station": {
+      "category": "music",
+      "sounds": ["sounds/audio/crittercountry/splashmountain/01_station"]
+    },
     "crittercountry.splashmountain.02_lift1_2": {
       "category": "music",
       "sounds": ["sounds/audio/crittercountry/splashmountain/02_lift1_2"]
@@ -217,6 +225,10 @@
       "category": "music",
       "sounds": ["sounds/audio/neworleanssquare/hauntedmansion/hmh_lbnew"]
     },
+    "neworleanssquare.hauntedmansion.hm_fastpass": {
+      "category": "music",
+      "sounds": ["sounds/audio/neworleanssquare/hauntedmansion/hm_fastpass"]
+    },
     "neworleanssquare.hauntedmansion.hmh_end": {
       "category": "music",
       "sounds": ["sounds/audio/neworleanssquare/hauntedmansion/hmh_end"]
@@ -276,6 +288,10 @@
     "neworleanssquare.piratesofthecaribbean.potc04": {
       "category": "music",
       "sounds": ["sounds/audio/neworleanssquare/piratesofthecaribbean/potc04"]
+    },
+    "neworleanssquare.piratesofthecaribbean.potcentry": {
+      "category": "music",
+      "sounds": ["sounds/audio/neworleanssquare/piratesofthecaribbean/potcentry"]
     },
     "hollywoodland.towerofterror.tot_preshow": {
       "category": "music",
