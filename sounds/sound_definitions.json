@@ -1,0 +1,293 @@
+{
+  "format_version": "1.14.0",
+  "sound_definitions": {
+    "adventureland.indiannajones.indy_seatbelts": {
+      "category": "music",
+      "sounds": ["sounds/audio/adventureland/indiannajones/indy_seatbelts"]
+    },
+    "adventureland.indiannajones.indy_full_youth": {
+      "category": "music",
+      "sounds": ["sounds/audio/adventureland/indiannajones/indy_full_youth"]
+    },
+    "adventureland.indiannajones.indy_full_future": {
+      "category": "music",
+      "sounds": ["sounds/audio/adventureland/indiannajones/indy_full_future"]
+    },
+    "adventureland.indiannajones.onyourown": {
+      "category": "music",
+      "sounds": ["sounds/audio/adventureland/indiannajones/onyourown"]
+    },
+    "adventureland.indiannajones.indy_snek": {
+      "category": "music",
+      "sounds": ["sounds/audio/adventureland/indiannajones/indy_snek"]
+    },
+    "grizzlypeak.grizzlyriverrun.grra3": {
+      "category": "music",
+      "sounds": ["sounds/audio/grizzlypeak/grizzlyriverrun/grra3"]
+    },
+    "grizzlypeak.grizzlyriverrun.grra2": {
+      "category": "music",
+      "sounds": ["sounds/audio/grizzlypeak/grizzlyriverrun/grra2"]
+    },
+    "grizzlypeak.grizzlyriverrun.grra1": {
+      "category": "music",
+      "sounds": ["sounds/audio/grizzlypeak/grizzlyriverrun/grra1"]
+    },
+    "grizzlypeak.grizzlyriverrun.grra5": {
+      "category": "music",
+      "sounds": ["sounds/audio/grizzlypeak/grizzlyriverrun/grra5"]
+    },
+    "grizzlypeak.grizzlyriverrun.grra4": {
+      "category": "music",
+      "sounds": ["sounds/audio/grizzlypeak/grizzlyriverrun/grra4"]
+    },
+    "grizzlypeak.grizzlyriverrun.lifthill": {
+      "category": "music",
+      "sounds": ["sounds/audio/grizzlypeak/grizzlyriverrun/lifthill"]
+    },
+    "grizzlypeak.grizzlyriverrun.gp_waterfall": {
+      "category": "music",
+      "sounds": ["sounds/audio/grizzlypeak/grizzlyriverrun/gp_waterfall"]
+    },
+    "frontierland.bigthundermountain.btmride1": {
+      "category": "music",
+      "sounds": ["sounds/audio/frontierland/bigthundermountain/btmride1"]
+    },
+    "frontierland.bigthundermountain.btmride2": {
+      "category": "music",
+      "sounds": ["sounds/audio/frontierland/bigthundermountain/btmride2"]
+    },
+    "fantasyland.madteaparty.teacupsaudio": {
+      "category": "music",
+      "sounds": ["sounds/audio/fantasyland/madteaparty/teacupsaudio"]
+    },
+    "fantasyland.aliceinwonderland.alice_1": {
+      "category": "music",
+      "sounds": ["sounds/audio/fantasyland/aliceinwonderland/alice_1"]
+    },
+    "fantasyland.aliceinwonderland.alice_3": {
+      "category": "music",
+      "sounds": ["sounds/audio/fantasyland/aliceinwonderland/alice_3"]
+    },
+    "fantasyland.aliceinwonderland.alice_2": {
+      "category": "music",
+      "sounds": ["sounds/audio/fantasyland/aliceinwonderland/alice_2"]
+    },
+    "fantasyland.caseyjrcircustrain.caseyjr2": {
+      "category": "music",
+      "sounds": ["sounds/audio/fantasyland/caseyjrcircustrain/caseyjr2"]
+    },
+    "fantasyland.caseyjrcircustrain.caseyjr1": {
+      "category": "music",
+      "sounds": ["sounds/audio/fantasyland/caseyjrcircustrain/caseyjr1"]
+    },
+    "fantasyland.matterhornbobsleds.matterhornleft": {
+      "category": "music",
+      "sounds": ["sounds/audio/fantasyland/matterhornbobsleds/matterhornleft"]
+    },
+    "fantasyland.matterhornbobsleds.matterhorn_wind": {
+      "category": "music",
+      "sounds": ["sounds/audio/fantasyland/matterhornbobsleds/matterhorn_wind"]
+    },
+    "fantasyland.snowwhitesscaryadventures.sw_grotto": {
+      "category": "music",
+      "sounds": ["sounds/audio/fantasyland/snowwhitesscaryadventures/sw_grotto"]
+    },
+    "fantasyland.storybooklandcanalboats.vo_imod": {
+      "category": "music",
+      "sounds": ["sounds/audio/fantasyland/storybooklandcanalboats/vo_imod"]
+    },
+    "fantasyland.storybooklandcanalboats.vo_mid": {
+      "category": "music",
+      "sounds": ["sounds/audio/fantasyland/storybooklandcanalboats/vo_mid"]
+    },
+    "fantasyland.storybooklandcanalboats.vo_slinx": {
+      "category": "music",
+      "sounds": ["sounds/audio/fantasyland/storybooklandcanalboats/vo_slinx"]
+    },
+    "fantasyland.storybooklandcanalboats.vo_mouske": {
+      "category": "music",
+      "sounds": ["sounds/audio/fantasyland/storybooklandcanalboats/vo_mouske"]
+    },
+    "fantasyland.storybooklandcanalboats.vo_flow_radio": {
+      "category": "music",
+      "sounds": ["sounds/audio/fantasyland/storybooklandcanalboats/vo_flow_radio"]
+    },
+    "fantasyland.peterpansflight.pirate_scene": {
+      "category": "music",
+      "sounds": ["sounds/audio/fantasyland/peterpansflight/pirate_scene"]
+    },
+    "fantasyland.peterpansflight.bedroom_and_london": {
+      "category": "music",
+      "sounds": ["sounds/audio/fantasyland/peterpansflight/bedroom_and_london"]
+    },
+    "fantasyland.peterpansflight.island_scene": {
+      "category": "music",
+      "sounds": ["sounds/audio/fantasyland/peterpansflight/island_scene"]
+    },
+    "fantasyland.peterpansflight.final_scene": {
+      "category": "music",
+      "sounds": ["sounds/audio/fantasyland/peterpansflight/final_scene"]
+    },
+    "fantasyland.peterpansflight.back_to_london": {
+      "category": "music",
+      "sounds": ["sounds/audio/fantasyland/peterpansflight/back_to_london"]
+    },
+    "fantasyland.pinocchiosdaringjourney.pinocchio": {
+      "category": "music",
+      "sounds": ["sounds/audio/fantasyland/pinocchiosdaringjourney/pinocchio"]
+    },
+    "fantasyland.kingaurthurscarousel.fullloop": {
+      "category": "music",
+      "sounds": ["sounds/audio/fantasyland/kingaurthurscarousel/fullloop"]
+    },
+    "crittercountry.splashmountain.02_lift1_2": {
+      "category": "music",
+      "sounds": ["sounds/audio/crittercountry/splashmountain/02_lift1_2"]
+    },
+    "crittercountry.splashmountain.05_liftpart1": {
+      "category": "music",
+      "sounds": ["sounds/audio/crittercountry/splashmountain/05_liftpart1"]
+    },
+    "crittercountry.splashmountain.04_showbuilding2": {
+      "category": "music",
+      "sounds": ["sounds/audio/crittercountry/splashmountain/04_showbuilding2"]
+    },
+    "tomorrowland.peoplemover.peoplemover2": {
+      "category": "music",
+      "sounds": ["sounds/audio/tomorrowland/peoplemover/peoplemover2"]
+    },
+    "tomorrowland.peoplemover.peoplemover3": {
+      "category": "music",
+      "sounds": ["sounds/audio/tomorrowland/peoplemover/peoplemover3"]
+    },
+    "tomorrowland.peoplemover.peoplemover1": {
+      "category": "music",
+      "sounds": ["sounds/audio/tomorrowland/peoplemover/peoplemover1"]
+    },
+    "tomorrowland.findingnemosubmarinevoyage.sub_sync_1": {
+      "category": "music",
+      "sounds": ["sounds/audio/tomorrowland/findingnemosubmarinevoyage/sub_sync_1"]
+    },
+    "tomorrowland.autopia.autopia_long": {
+      "category": "music",
+      "sounds": ["sounds/audio/tomorrowland/autopia/autopia_long"]
+    },
+    "tomorrowland.astroorbiter.astrotakeoff": {
+      "category": "music",
+      "sounds": ["sounds/audio/tomorrowland/astroorbiter/astrotakeoff"]
+    },
+    "tomorrowland.spacemountain.sm_sfx": {
+      "category": "music",
+      "sounds": ["sounds/audio/tomorrowland/spacemountain/sm_sfx"]
+    },
+    "tomorrowland.buzzlightyearastroblasters.buzz-onride": {
+      "category": "music",
+      "sounds": ["sounds/audio/tomorrowland/buzzlightyearastroblasters/buzz-onride"]
+    },
+    "neworleanssquare.hauntedmansion.thunder": {
+      "category": "music",
+      "sounds": ["sounds/audio/neworleanssquare/hauntedmansion/thunder"]
+    },
+    "neworleanssquare.hauntedmansion.hmh_unload": {
+      "category": "music",
+      "sounds": ["sounds/audio/neworleanssquare/hauntedmansion/hmh_unload"]
+    },
+    "neworleanssquare.hauntedmansion.hmh_pre_1": {
+      "category": "music",
+      "sounds": ["sounds/audio/neworleanssquare/hauntedmansion/hmh_pre_1"]
+    },
+    "neworleanssquare.hauntedmansion.hatboxheadhat": {
+      "category": "music",
+      "sounds": ["sounds/audio/neworleanssquare/hauntedmansion/hatboxheadhat"]
+    },
+    "neworleanssquare.hauntedmansion.hmhzaro": {
+      "category": "music",
+      "sounds": ["sounds/audio/neworleanssquare/hauntedmansion/hmhzaro"]
+    },
+    "neworleanssquare.hauntedmansion.hmh_pre_2": {
+      "category": "music",
+      "sounds": ["sounds/audio/neworleanssquare/hauntedmansion/hmh_pre_2"]
+    },
+    "neworleanssquare.hauntedmansion.hmh_grave": {
+      "category": "music",
+      "sounds": ["sounds/audio/neworleanssquare/hauntedmansion/hmh_grave"]
+    },
+    "neworleanssquare.hauntedmansion.hmh_lbnew": {
+      "category": "music",
+      "sounds": ["sounds/audio/neworleanssquare/hauntedmansion/hmh_lbnew"]
+    },
+    "neworleanssquare.hauntedmansion.hmh_end": {
+      "category": "music",
+      "sounds": ["sounds/audio/neworleanssquare/hauntedmansion/hmh_end"]
+    },
+    "neworleanssquare.hauntedmansion.hmh_leota": {
+      "category": "music",
+      "sounds": ["sounds/audio/neworleanssquare/hauntedmansion/hmh_leota"]
+    },
+    "neworleanssquare.hauntedmansion.hmh_oogie": {
+      "category": "music",
+      "sounds": ["sounds/audio/neworleanssquare/hauntedmansion/hmh_oogie"]
+    },
+    "neworleanssquare.hauntedmansion.hmh_jack": {
+      "category": "music",
+      "sounds": ["sounds/audio/neworleanssquare/hauntedmansion/hmh_jack"]
+    },
+    "neworleanssquare.piratesofthecaribbean.parrot": {
+      "category": "music",
+      "sounds": ["sounds/audio/neworleanssquare/piratesofthecaribbean/parrot"]
+    },
+    "neworleanssquare.piratesofthecaribbean.bluebayou": {
+      "category": "music",
+      "sounds": ["sounds/audio/neworleanssquare/piratesofthecaribbean/bluebayou"]
+    },
+    "neworleanssquare.piratesofthecaribbean.pirates_thunder": {
+      "category": "music",
+      "sounds": ["sounds/audio/neworleanssquare/piratesofthecaribbean/pirates_thunder"]
+    },
+    "neworleanssquare.piratesofthecaribbean.cannon": {
+      "category": "music",
+      "sounds": ["sounds/audio/neworleanssquare/piratesofthecaribbean/cannon"]
+    },
+    "neworleanssquare.piratesofthecaribbean.potc01": {
+      "category": "music",
+      "sounds": ["sounds/audio/neworleanssquare/piratesofthecaribbean/potc01"]
+    },
+    "neworleanssquare.piratesofthecaribbean.potc03": {
+      "category": "music",
+      "sounds": ["sounds/audio/neworleanssquare/piratesofthecaribbean/potc03"]
+    },
+    "neworleanssquare.piratesofthecaribbean.potc02": {
+      "category": "music",
+      "sounds": ["sounds/audio/neworleanssquare/piratesofthecaribbean/potc02"]
+    },
+    "neworleanssquare.piratesofthecaribbean.potc06": {
+      "category": "music",
+      "sounds": ["sounds/audio/neworleanssquare/piratesofthecaribbean/potc06"]
+    },
+    "neworleanssquare.piratesofthecaribbean.pirates_overture": {
+      "category": "music",
+      "sounds": ["sounds/audio/neworleanssquare/piratesofthecaribbean/pirates_overture"]
+    },
+    "neworleanssquare.piratesofthecaribbean.potc05": {
+      "category": "music",
+      "sounds": ["sounds/audio/neworleanssquare/piratesofthecaribbean/potc05"]
+    },
+    "neworleanssquare.piratesofthecaribbean.potc04": {
+      "category": "music",
+      "sounds": ["sounds/audio/neworleanssquare/piratesofthecaribbean/potc04"]
+    },
+    "hollywoodland.towerofterror.tot_preshow": {
+      "category": "music",
+      "sounds": ["sounds/audio/hollywoodland/towerofterror/tot_preshow"]
+    },
+    "hollywoodland.towerofterror.rideaudio": {
+      "category": "music",
+      "sounds": ["sounds/audio/hollywoodland/towerofterror/rideaudio"]
+    },
+    "hollywoodland.towerofterror.littlegirllost": {
+      "category": "music",
+      "sounds": ["sounds/audio/hollywoodland/towerofterror/littlegirllost"]
+    }
+  }
+}
