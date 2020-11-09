@@ -1,7 +1,7 @@
 {
   "format_version": 1,
   "header": {
-    "description": "Scary Christmas to all...",
+    "description": "ImagineFun Sounds",
     "name": "imaginefun",
     "platform_locked": false,
     "uuid": "8794c1aa-2263-11eb-adc1-0242ac120002",
@@ -13,9 +13,9 @@
   },
   "modules": [
     {
-      "description": "Scary Christmas to all...",
+      "description": "ImagineFun Sounds",
       "type": "resources",
-      "uuid": "50f5d800-dc20-4947-987e-853562cb31e2",
+      "uuid": "db9dc6bd-fb24-4f63-abbf-b7972f040f87",
       "version": [
         1,
         0,
